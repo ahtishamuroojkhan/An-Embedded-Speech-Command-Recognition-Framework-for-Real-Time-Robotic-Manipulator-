@@ -1,0 +1,1 @@
+# An-Embedded-Speech-Command-Recognition-Framework-for-Real-Time-Robotic-Manipulator-
